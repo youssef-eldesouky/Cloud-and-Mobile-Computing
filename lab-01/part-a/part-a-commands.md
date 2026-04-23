@@ -19,8 +19,3 @@
 9. ```ps aux --sort=-%mem | head```
 
 10. ```df -h```
-
----
-
-## Part B: Hands-On Comparison — VMs vs Containers
-
