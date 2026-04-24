@@ -26,6 +26,11 @@ The following commands were used in both environments:
 ### Conclusion
 
 Containers are more lightweight and efficient, making them suitable for microservices and scalable applications. Virtual Machines, on the other hand, provide stronger isolation and are better suited for cases requiring a full operating system environment.
+
+## Part B - Cloud Infrastructure Exploration
+
+Could not be implemented on AWS (Requires Card Information for Payments and Subscription Plans)
+
 ## Part C - Tail Latency Mini-Simulation
 
 ### Files
