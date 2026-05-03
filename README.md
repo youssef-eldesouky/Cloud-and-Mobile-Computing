@@ -9,5 +9,4 @@ _**Submitted by: Youssef Wael Eldesouky - SE3**_
 - Lab_02: Distributed Consistency and Consensus in the Cloud
 - Lab_03: Containerization and Cluster Orchestration
 - Lab_04: Microservices and Cloud-Native Design
-
-
+- Lab_05: Local Serverless Computing and Event-Driven Image Processing Pipeline
